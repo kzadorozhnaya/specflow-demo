@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# S2971: "IEnumerable" LINQs should be simplified
+dotnet_diagnostic.S2971.severity = silent
